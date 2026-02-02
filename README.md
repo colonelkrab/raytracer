@@ -1,0 +1,2 @@
+# raytracer
+Studying ratracer implementations
