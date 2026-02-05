@@ -1,2 +1,2 @@
 # raytracer
-Studying ratracer implementations
+Studying raytracer implementations
